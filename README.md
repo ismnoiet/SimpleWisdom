@@ -1,5 +1,5 @@
 ### What is this about
-well, as it is clear from the title, this repo is for holding simple but real world wisdom words.
+Well, as it is clear from the title, this repo is for holding simple but real world wisdom words.
 If you have one quote that matches the previous criteria feel free to submit a PR.
 
 
